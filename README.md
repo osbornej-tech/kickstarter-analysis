@@ -9,7 +9,7 @@ I utilized custom formulas such as: year(), countifs(), sum() to compute the val
 
 
 ## Results: 
-### Conclusion on Theater Outcomes by Launh Date
+### Conclusion on Theater Outcomes by Launch Date
 Overall, the theater outcomes based on launch date was relatively successful  from one month to the next. For the month of October, there were no reports of there being a cancelled event. Generally, it appears that monthly there were twice as many success reported from January to September and November. However, during the month of December there similar number of successes and failures reported.
 
 ### Image for Outcomes vs. Goal
