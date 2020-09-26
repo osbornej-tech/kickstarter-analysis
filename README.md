@@ -1,5 +1,7 @@
 # An Analysis of Kickstarter Campaigns
-Analysis on Kickstarter data for Louise
+Analysis on Kickstarter data for Louise 
+
+Data file used in analysis: https://github.com/osbornej-tech/kickstarter-analysis/blob/master/Kickstarter_Challenge.xlsx 
 
 ## Overview:
 This project aims to assist Louise in understnading the data from her kickstarter campaign. 
