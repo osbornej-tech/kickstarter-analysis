@@ -18,7 +18,7 @@ Overall, the theater outcomes based on launch date was relatively successful  fr
 ### Conclusion on Outcomes based on Goals
 There weren't any cancellations reported for plays. Based on the goals bin utilized, there appears to be more reports of success than failures. Once the success and failure were the same times when the goal was $15,000 to $19,999. Once the campaign failed to meet its goal completed when the goal was $45,000 to $49,999. There were more reports of failures than success when the goal was $25,000 to $34,999 and greater than $50,000. 
 
-### Image for Theater Outcomes vsLaunch
+### Image for Theater Outcomes vs Launch
 <img src = "https://github.com/osbornej-tech/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png">
 
 ### Limitations of the Dataset
