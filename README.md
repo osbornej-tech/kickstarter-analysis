@@ -1,10 +1,10 @@
 # An Analysis of Kickstarter Campaigns
 Analysis on Kickstarter data for Louise 
 
-Data file used in analysis: https://github.com/osbornej-tech/kickstarter-analysis/blob/master/Kickstarter_Challenge.xlsx 
+[Data file used in analysis] (https://github.com/osbornej-tech/kickstarter-analysis/blob/master/Kickstarter_Challenge.xlsx) 
 
 ## Overview:
-This project aims to assist Louise in understnading the data from her kickstarter campaign. 
+This project aims to assist Louise in understanding the data from her kickstarter campaign. 
 
 ## Analysis and Challenges:
 I utilized custom formulas such as: year(), countifs(), sum() to compute the values for specificed items requested. I used references from one cell to the next to lookup up values such as the goal amount and the outcome. Additionally, I used pivot table and filtering to assist with the development of line charts and images for this project. I did not encounter any challenges or difficulties completing this task because I am familiar with using this software.
